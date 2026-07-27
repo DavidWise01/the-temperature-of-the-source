@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1495
 slug  : the-temperature-of-the-source
-seal  : 6c6e3178f28afa2974ba7f206764b3cce70446fe4850579a9a8ef0a4dda919a6
-prev  : b2df4623f6ddca0b7181b9a8393f81da4fd9dbf304d66aa914ae3ebce60da845
-link  : 4566d612b860b9a3af2822768cf38b2873c49062be4cfa187260a097a7b8622e
-head  : 62b19e49d2e36e2970d86ebcefee877c72c5a21450bf3285cc58138192bdd9e2
+seal  : bb7737bd1fbab0cb5c875e5dda0ea06904228043bcf46ad6f002436d829fcf55
+prev  : 40667f11bac43a2ad6e4e5d668b212d7a4ede8f4003e6c9ee79859ba2e6da686
+link  : 9778f7c03ff6deff19720ea09a9050fb6b1368073e3e721e44b8dc601ff7bc3e
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
